@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="330dp"
+    android:layout_height="40dp"
+    android:background="@drawable/round_shape_row"
+    android:gravity="center"
+    android:layout_gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="No events found"
+        android:gravity="center"
+        android:textColor="#27CE2A"
+        android:textStyle="bold"/>
+</LinearLayout>
+
